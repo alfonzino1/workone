@@ -1,0 +1,3 @@
+﻿  worktwo.cpp
+C:\Users\alfon\OneDrive\Рабочий стол\worktwo\worktwo\worktwo.cpp(14,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  worktwo.vcxproj -> C:\Users\alfon\OneDrive\Рабочий стол\worktwo\x64\Debug\worktwo.exe
